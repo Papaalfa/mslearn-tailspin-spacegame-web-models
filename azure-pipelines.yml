@@ -1,5 +1,4 @@
-pool:
-  vmImage: 'local'
+pool: local
 
 variables:
   buildConfiguration: 'Release'
